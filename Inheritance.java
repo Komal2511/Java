@@ -25,5 +25,10 @@ public class Inheritance {
 		ch.k=2;		// l is member of class grandparent which is nor directly inherited into child but it can access it because child
 		ch.l=5;		// inherits it from parent. (Multilevel Inheritance)
 		System.out.println(ch.k+ch.l+pr.k);
+		System.out.println("Inherited perfectly!");
+	        System.out.println("Inherited perfectly!");
+
 	}
 }
+
+
