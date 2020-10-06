@@ -16,7 +16,7 @@ class B extends A{
 	}
 	public B() {
 		super(3);							// WHEN OBJECT OF CHILD IS CREATED IT WILL CALL ITS CONSTRUCTOR AND THAT WILL CALL
-		System.out.println("Ohh NO");  		// PARENT CLASS CONSTRUCTOR USING # super();	which is by default here
+		System.out.println("Ohh NO NO NO NO");  		// PARENT CLASS CONSTRUCTOR USING # super();	which is by default here
 		}
 }
 
